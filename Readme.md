@@ -97,6 +97,6 @@ Please adhere to the following code style guidelines:
 If you encounter any bugs or have suggestions for new features, please open an issue on the GitHub repository. Provide a clear description of the problem or feature request and any relevant details.
 
 ### Contact
-If you have any questions or need assistance, you can reach out to us at support@example.com.
+If you have any questions or need assistance, you can reach out to us
 
 We appreciate your contributions and thank you for helping improve the EBulkSMS Python library!
